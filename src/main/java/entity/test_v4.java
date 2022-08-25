@@ -1,2 +1,4 @@
-package entity;public class test_v4 {
+package entity;
+
+public class test_v4 {
 }

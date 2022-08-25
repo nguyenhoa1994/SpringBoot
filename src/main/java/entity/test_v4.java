@@ -6,4 +6,5 @@ public class test_v4 {
     private String field3;
     private String field4;
     private String field5;
+    private String field6;
 }
